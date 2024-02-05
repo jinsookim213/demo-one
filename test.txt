@@ -1,1 +1,4 @@
-this is nano command
+this is nano 
+commanWd
+add one more line
+Good...
